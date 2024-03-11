@@ -1,0 +1,31 @@
+p{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+}
+h1{
+    color: rgb(8, 119, 95);
+}
+li{
+    color: rgb(23, 139, 143);
+    font-weight: bolder;
+    font-size: larger;
+
+}
+ol{
+    color: cadetblue;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+form{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+input{font-size: x-large;}
+button{font-size: large;}
+img{width: 1000px; ;}
+body{
+    background-color: burlywood;
+}
+    
